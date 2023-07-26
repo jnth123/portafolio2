@@ -194,3 +194,36 @@
   border-radius: 10px;
   opacity: 0.7;
 }
+.project-image13 {
+  width: 100%;
+  height: 200px;
+  background-color: gray;
+  margin-bottom: 10px;
+  background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png');
+  background-position: center;
+  background-size: 100%;
+  border-radius: 10px;
+  opacity: 0.7;
+}
+.project-image14 {
+  width: 100%;
+  height: 200px;
+  background-color: gray;
+  margin-bottom: 10px;
+  background-image: url('https://www.campusmvp.es/recursos/image.axd?picture=/2019/4T/java-frameworks-spring.png');
+  background-position: center;
+  background-size: 100%;
+  border-radius: 10px;
+  opacity: 0.7;
+}
+.project-image15 {
+  width: 100%;
+  height: 200px;
+  background-color: gray;
+  margin-bottom: 10px;
+  background-image: url('https://blog.codmind.com/content/images/2021/03/banner-2.png');
+  background-position: center;
+  background-size: 100%;
+  border-radius: 10px;
+  opacity: 0.7;
+}

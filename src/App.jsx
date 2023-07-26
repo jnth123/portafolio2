@@ -159,44 +159,40 @@ function App() {
             <div className="project-image12"></div>
             <h3>Semana 12: Tienda realizada en next</h3>
             <p>En esta semana se realizo una web de una tienda usando next para registro de productos</p>
-            <a href="https://es.legacy.reactjs.org/docs/components-and-props.html" target='_blank'><button onClick={() => console.log('Redirigir al proyecto 2')}>Ver más de Componentes</button></a>
+            <a href="https://es.legacy.reactjs.org/docs/components-and-props.html" target='_blank'><button onClick={() => console.log('Redirigir al proyecto 2')}>Descargar codigo</button></a>
           </div>
         </div>
         <div className="projects-section">
           <div className="project">
-            <div className="project-image12"></div>
-            <h3>Semana 13: Practica calificada de React</h3>
-            <p>En esta semana se realizo una practica calificada de React con Bootstrap, que constaba de 5 preguntas a desarrollar su codigo en React</p>
+            <div className="project-image13"></div>
+            <h3>Semana 13: Intelligence Id</h3>
+            <p>En esta semana una breve a¿introduccion a intelligence Idea</p>
             <div className='cuerpobtn'>
-              <a href="https://drive.google.com/file/d/1gTCcbyMkvvak6JafVe9jBGMBzIgul728/view?usp=sharing" target='_blank'><button onClick={() => console.log('Redirigir al proyecto 1')}>Ver practica</button></a>
+              <a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2FIntelliJ_IDEA&psig=AOvVaw2vRPIk5UXCSRZKhI04Zift&ust=1690462591692000&source=images&cd=vfe&opi=89978449&ved=0CBMQjhxqFwoTCJCsioW2rIADFQAAAAAdAAAAABAE" target='_blank'><button onClick={() => console.log('Redirigir al proyecto 1')}>Ver mas de intelligence</button></a>
               <a href="https://drive.google.com/file/d/1Kk1ngf7fEb9bt_z4_DNCxiumFqIGcrlD/view?usp=share_link" target='_blank'><button onClick={() => console.log('Redirigir al proyecto 1')}>Descargar codigo solución</button></a>
             </div>
           </div>
           <div className="project">
-            <div className="project-image6"></div>
-            <h3>Semana 14: componentes de react</h3>
-            <p className='justificar'>Los componentes permiten separar la interfaz de usuario en piezas independientes, reutilizables y pensar en cada pieza de forma aislada. Esta página proporciona una introducción a la idea de los componentes</p>
-            <p>En esta semana el docente nos dio a conocer sobre los componentes de react, su funcionamiento y usos</p>
-            <a href="https://es.legacy.reactjs.org/docs/components-and-props.html" target='_blank'><button onClick={() => console.log('Redirigir al proyecto 2')}>Ver más de Componentes</button></a>
+            <div className="project-image14"></div>
+            <h3>Semana 14: Clases con spring</h3>
+            <p>En esta semana el docente nos dio una clase para poder descargar modelos para desarrollar aplicaciones web usando Spring</p>
+            <a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.campusmvp.es%2Frecursos%2Fpost%2Fjava-los-5-mejores-frameworks-para-desarrollo-web.aspx&psig=AOvVaw2KcZVaugFyGGFR7nvGpVmH&ust=1690462843620000&source=images&cd=vfe&opi=89978449&ved=0CBMQjhxqFwoTCMj8hv22rIADFQAAAAAdAAAAABAE" target='_blank'><button onClick={() => console.log('Redirigir al proyecto 2')}>Descargar proyecto de Spring</button></a>
           </div>
         </div>
         <div className="projects-section">
           <div className="project">
-            <div className="project-image7"></div>
-            <h3>Semana 15: Practica calificada de React</h3>
-            <p>En esta semana se realizo una practica calificada de React con Bootstrap, que constaba de 5 preguntas a desarrollar su codigo en React</p>
+            <div className="project-image15"></div>
+            <h3>Semana 15: Spring parte 2</h3>
+            <p>En esta semana el docente nos una clase de desarrollo web en spring para el desarrollo de una api</p>
             <div className='cuerpobtn'>
-              <a href="https://drive.google.com/file/d/1gTCcbyMkvvak6JafVe9jBGMBzIgul728/view?usp=sharing" target='_blank'><button onClick={() => console.log('Redirigir al proyecto 1')}>Ver practica</button></a>
-              <a href="https://drive.google.com/file/d/1Kk1ngf7fEb9bt_z4_DNCxiumFqIGcrlD/view?usp=share_link" target='_blank'><button onClick={() => console.log('Redirigir al proyecto 1')}>Descargar codigo solución</button></a>
+              <a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.codmind.com%2Fmi-primer-api-rest-con-spring-boot%2F&psig=AOvVaw1DHMlWoZqlIvQPzRhda0LX&ust=1690463061800000&source=images&cd=vfe&opi=89978449&ved=0CBMQjhxqFwoTCPjMpuW3rIADFQAAAAAdAAAAABAE" target='_blank'><button onClick={() => console.log('Redirigir al proyecto 1')}>como desarrollar una api</button></a>
             </div>
           </div>
           <div className="project">
-            <div className="project-image6"></div>
-            <h3>Semana 16: componentes de react</h3>
-            <p className='justificar'>Los componentes permiten separar la interfaz de usuario en piezas independientes, reutilizables y pensar en cada pieza de forma aislada. Esta página proporciona una introducción a la idea de los componentes</p>
-            <p>En esta semana el docente nos dio a conocer sobre los componentes de react, su funcionamiento y usos</p>
-            <a href="https://es.legacy.reactjs.org/docs/components-and-props.html" target='_blank'><button onClick={() => console.log('Redirigir al proyecto 2')}>Ver más de Componentes</button></a>
-          </div>
+            <div className="project-image8"></div>
+            <h3>Semana 16: Parcial 2</h3>
+            <p className='justificar'>se desarrollo el examen parcial 2 que constaba de desarrollar un login para registro de docentes usando un CRUD y una api</p>
+             </div>
         </div>
       </div>
     </div>
