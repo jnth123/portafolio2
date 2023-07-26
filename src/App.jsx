@@ -120,9 +120,83 @@ function App() {
               <a href="https://drive.google.com/file/d/1gTCcbyMkvvak6JafVe9jBGMBzIgul728/view?usp=sharing" target='_blank'><button onClick={() => console.log('Redirigir al proyecto 1')}>Ver practica</button></a>
               <a href="https://drive.google.com/file/d/1Kk1ngf7fEb9bt_z4_DNCxiumFqIGcrlD/view?usp=share_link" target='_blank'><button onClick={() => console.log('Redirigir al proyecto 1')}>Descargar codigo solución</button></a>
             </div>
-            
           </div>
-          
+          <div className="project">
+            <div className="project-image8"></div>
+            <h3>Semana 8: examen parcial 1</h3>
+            <a href="https://es.legacy.reactjs.org/docs/components-and-props.html" target='_blank'><button onClick={() => console.log('Redirigir al proyecto 2')}>Ver más de Componentes</button></a>
+          </div>
+        </div>
+        <div className="projects-section">
+          <div className="project">
+            <div className="project-image9"></div>
+            <h3>Semana 9: UseStates</h3>
+            <p>En esta semana se realizo el uso de Hooks que permiten añadir el estado de React a un componente funcional y sirve para manejar el estado de los elementos de un componente de manera que permite actualizar el estado de una variable y solo renderizar el tag html</p>
+            <div className='cuerpobtn'>
+              <a href="https://somospnt.com/blog/289-conociendo-en-profundidad-el-react-hook-usestate-6#:~:text=El%20Hook%20useState%20es%20un,el%20estado%20cambia%20el%20componente" target='_blank'><button onClick={() => console.log('Redirigir al proyecto 1')}>Ver mas de UseStates</button></a>
+              <a href="https://drive.google.com/file/d/1Kgp0MGkDld3aXt1H8jZsXMXiUinAzK6K/view?usp=sharing" target='_blank'><button onClick={() => console.log('Redirigir al proyecto 1')}>Descargar codigo de la clase</button></a>
+            </div>
+          </div>
+          <div className="project">
+            <div className="project-image10"></div>
+            <h3>Semana 10: Practica en React con JS</h3>
+            <p className='justificar'></p>
+            <p>En esta semana se realizo una paractica para desarrollar codigo para un programa de citas medicas y gestion de empleados en react usando Java Script</p>
+            <a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.mobinius.com%2Fblogs%2Fbenefits-of-using-react-js-in-the-dynamic-world-of-web-development%2F&psig=AOvVaw3Wp8g_aN31F-TRVIYMlO7s&ust=1690460648433000&source=images&cd=vfe&opi=89978449&ved=0CBMQjhxqFwoTCOjBtOaurIADFQAAAAAdAAAAABAE" target='_blank'><button onClick={() => console.log('Redirigir al proyecto 2')}>Ver más de JS con react</button></a>
+            <a href="https://drive.google.com/file/d/197dgsmOXZ-w23HxNZreOX9T27kXfns0z/view?usp=drive_link" target='_blank'><button onClick={() => console.log('Redirigir al proyecto 2')}>descargar cod de ejercicios</button></a>
+          </div>
+        </div>
+        <div className="projects-section">
+          <div className="project">
+            <div className="project-image11"></div>
+            <h3>Semana 11: Practica vite con React</h3>
+            <p>En esta semana se realizo una practica con vite y react para guardar datos de pacientes asusiando una animagen a estos registros todo desde un formulacio</p>
+            <div className='cuerpobtn'>
+              <a href="https://drive.google.com/file/d/1Kk1ngf7fEb9bt_z4_DNCxiumFqIGcrlD/view?usp=share_link" target='_blank'><button onClick={() => console.log('Redirigir al proyecto 1')}>Descargar codigo solución</button></a>
+            </div>
+          </div>
+          <div className="project">
+            <div className="project-image12"></div>
+            <h3>Semana 12: Tienda realizada en next</h3>
+            <p>En esta semana se realizo una web de una tienda usando next para registro de productos</p>
+            <a href="https://es.legacy.reactjs.org/docs/components-and-props.html" target='_blank'><button onClick={() => console.log('Redirigir al proyecto 2')}>Ver más de Componentes</button></a>
+          </div>
+        </div>
+        <div className="projects-section">
+          <div className="project">
+            <div className="project-image12"></div>
+            <h3>Semana 13: Practica calificada de React</h3>
+            <p>En esta semana se realizo una practica calificada de React con Bootstrap, que constaba de 5 preguntas a desarrollar su codigo en React</p>
+            <div className='cuerpobtn'>
+              <a href="https://drive.google.com/file/d/1gTCcbyMkvvak6JafVe9jBGMBzIgul728/view?usp=sharing" target='_blank'><button onClick={() => console.log('Redirigir al proyecto 1')}>Ver practica</button></a>
+              <a href="https://drive.google.com/file/d/1Kk1ngf7fEb9bt_z4_DNCxiumFqIGcrlD/view?usp=share_link" target='_blank'><button onClick={() => console.log('Redirigir al proyecto 1')}>Descargar codigo solución</button></a>
+            </div>
+          </div>
+          <div className="project">
+            <div className="project-image6"></div>
+            <h3>Semana 14: componentes de react</h3>
+            <p className='justificar'>Los componentes permiten separar la interfaz de usuario en piezas independientes, reutilizables y pensar en cada pieza de forma aislada. Esta página proporciona una introducción a la idea de los componentes</p>
+            <p>En esta semana el docente nos dio a conocer sobre los componentes de react, su funcionamiento y usos</p>
+            <a href="https://es.legacy.reactjs.org/docs/components-and-props.html" target='_blank'><button onClick={() => console.log('Redirigir al proyecto 2')}>Ver más de Componentes</button></a>
+          </div>
+        </div>
+        <div className="projects-section">
+          <div className="project">
+            <div className="project-image7"></div>
+            <h3>Semana 15: Practica calificada de React</h3>
+            <p>En esta semana se realizo una practica calificada de React con Bootstrap, que constaba de 5 preguntas a desarrollar su codigo en React</p>
+            <div className='cuerpobtn'>
+              <a href="https://drive.google.com/file/d/1gTCcbyMkvvak6JafVe9jBGMBzIgul728/view?usp=sharing" target='_blank'><button onClick={() => console.log('Redirigir al proyecto 1')}>Ver practica</button></a>
+              <a href="https://drive.google.com/file/d/1Kk1ngf7fEb9bt_z4_DNCxiumFqIGcrlD/view?usp=share_link" target='_blank'><button onClick={() => console.log('Redirigir al proyecto 1')}>Descargar codigo solución</button></a>
+            </div>
+          </div>
+          <div className="project">
+            <div className="project-image6"></div>
+            <h3>Semana 16: componentes de react</h3>
+            <p className='justificar'>Los componentes permiten separar la interfaz de usuario en piezas independientes, reutilizables y pensar en cada pieza de forma aislada. Esta página proporciona una introducción a la idea de los componentes</p>
+            <p>En esta semana el docente nos dio a conocer sobre los componentes de react, su funcionamiento y usos</p>
+            <a href="https://es.legacy.reactjs.org/docs/components-and-props.html" target='_blank'><button onClick={() => console.log('Redirigir al proyecto 2')}>Ver más de Componentes</button></a>
+          </div>
         </div>
       </div>
     </div>
